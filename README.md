@@ -1,6 +1,8 @@
 # CS-255-DriverPass-Portfolio
 CS-255 System Analysis and Design Project Portfolio
-##Project Overview 
+
+
+Project Overview 
 The DriverPass project focused on designing a system to help students prepare for their driving tests. The client wanted a system that would allow students to access online practice materials, schedule driving lessons, track their progress, and manage their learning more efficiently. The system also needed to support staff and administrators in managing student information, lesson schedules, and other important activities.
 ## What Did I Do Well?
 One thing I did well was organize the system requirements and translate them into design elements that reflected the client's needs. I focused on how students, instructors, and administrators would interact with the system instead of looking at each feature separately. Creating system models and diagrams helped me visualize the system's structure and understand how different parts could work together. This approach helped me connect the client's business goals with the proposed system design.
